@@ -1,0 +1,23 @@
+# Catkin build artifacts
+build/
+devel/
+install/
+log/
+
+# Catkin workspace specific files
+.catkin_workspace
+.catkin_tools/
+
+# Common IDE/OS generated files
+*.swp
+*.bak
+*~
+.DS_Store
+.vscode/
+.idea/
+
+# Executables and libraries
+*.o
+*.so
+*.a
+*.exe
