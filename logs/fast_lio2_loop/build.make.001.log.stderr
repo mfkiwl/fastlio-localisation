@@ -1,3 +1,0 @@
-/home/iris/slam/src/fast_lio2_loop/src/fast_lio_sub.cpp:6:5: warning: first argument of ‘int main(char, char**)’ should be ‘int’ [-Wmain]
-    6 | int main (char argc, char** argv){
-      |     ^~~~
